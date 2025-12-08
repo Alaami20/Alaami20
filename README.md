@@ -1,43 +1,64 @@
-# 👋 Hi, I'm Alaa Miari
-
-🎓 Computer Science & Data Science student @ University of Haifa (graduating 2027)  
-🤖 Focused on AI, Deep Learning, LLM Engineering, and data-driven applications  
-🪙 Building my flagship **Crypto AI Prediction System** as a future startup  
-📍 Haifa, Israel  
-
----
-
-## 🧠 Skills & Interests
-- Generative AI & Large Language Models (LLMs)
-- Deep Learning (CNNs, LSTMs, Transformers)
-- Machine Learning & Data Analysis
-- Time-series forecasting (crypto, stocks)
-- Software Engineering (Python & Java)
-- Building real ML applications end-to-end
-
----
-
-## 🔥 Featured Projects
-- **🪙 Crypto Coin Prediction** – Deep learning system for crypto price forecasting  
-- **🤖 LLM & GenAI Labs** – Hands-on notebooks for Transformers, LangChain, RAG, DPO  
-- **📊 Stocks Analysis** – Exploratory time-series analysis of stock & gold data  
-- **⚡ EV Charging Analysis** – Clustering and visualization of EV charging patterns  
-- **🧠 Deep Learning Final Project** – University project using advanced models  
-- **☕ JavaFX Login System** – Desktop app with clean OOP and MVC structure  
-
----
-
-## 🛠 Tech Stack
-**Languages:** Python, Java, SQL  
-**ML/DL:** PyTorch, TensorFlow, scikit-learn  
-**GenAI:** Transformers, LangChain, RAG  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-**Other:** Git, Jupyter, VSCode, Streamlit  
-
----
-
-## 📫 Contact
-📧 **alaamiari206@gmail.com**  
-🔗 **LinkedIn:** www.linkedin.com/in/alaami20
-🐙 **GitHub:** https://github.com/Alaami20
-
+🧠 Alaa Miari
+Full-Stack AI/ML Engineer | Generative AI (LLMs/RAG) | Deep Learning | MLOps | Data Science
+📍 Haifa, Israel
+📧 Alaamiari206@gmail.com
+🔗 LinkedIn: alaami20
+🐙 GitHub: Alaami20
+🚀 About Me
+I’m a Full-Stack AI/ML Engineer and Data Science student at the University of Haifa, passionate about building real, production-ready AI systems, from LLMs and RAG applications, to deep learning models and end-to-end ML pipelines.
+I enjoy solving real-world problems through:
+Machine Learning & Deep Learning
+LLMs and Generative AI
+Time-series modeling & anomaly detection
+Cloud-based AI deployment (AWS)
+Practical MLOps & automation
+Data engineering & feature processing
+Currently applying for Google Student Researcher 2026.
+🔬 Research Interests
+Machine Learning & Applied AI
+Deep Learning (CNNs, RNNs, Transformers)
+Time-Series Analysis & Anomaly Detection
+Generative AI, LLMs, and Retrieval-Augmented Generation
+Optimization, search algorithms, and intelligent systems
+📂 Highlighted Projects
+🔥 1. Crypto Anomaly Detection (ML & LSTM Research)
+Time-series anomaly detection for cryptocurrency price movements using ML models and LSTM deep learning architectures.
+Tech: Python, Pandas, Scikit-Learn, LSTM
+🔗 Repo: github.com/Alaami20/crypto-anomaly-detection
+🎯 2. Deep Learning Classification Model (TensorFlow/Keras)
+Implemented, trained, and evaluated a multi-class neural network with Keras, focusing on model performance and tuning.
+Tech: TensorFlow, Keras, NumPy
+🔗 Repo coming soon
+🤖 3. AI Algorithms Notebook (Search & Optimization)
+Implemented classic AI algorithms like A*, BFS, DFS, and heuristic search; focused on understanding algorithmic behavior.
+Tech: Python
+🔗 Repo: (Add link)
+🧩 Upcoming Projects (In Progress)
+LLM RAG Mini-System (PDF QA or Document Chatbot)
+Image Classifier (CNN or Vision Transformer)
+End-to-End ML Pipeline with MLflow + Docker
+🛠 Tech Stack
+Languages:
+Python, Java, SQL
+Machine Learning / Deep Learning:
+TensorFlow • Keras • PyTorch • Scikit-Learn • Transformers • CNNs • RNNs • LSTMs
+Generative AI / LLMs:
+Prompt Engineering • Embeddings • RAG • LLM Fine-Tuning
+Cloud & MLOps:
+AWS (EC2, S3, Lambda, CloudWatch, CodePipeline) • Docker • CI/CD • GitHub Actions
+Data Tools:
+Pandas • NumPy • Matplotlib • Feature Engineering • Data Cleaning
+Other Tools:
+Git • Linux • VSCode • IntelliJ • Jupyter
+🎓 Education & Certifications
+B.Sc. Data Science & Computer Science — University of Haifa (2023–2027)
+Certifications:
+IBM Generative AI Engineer
+IBM Deep Learning Specialization
+AWS Cloud Technical Essentials
+Google Cloud MLOps Fundamentals
+SQL for Data Science (UC Davis)
+🤝 Let’s Connect
+Looking for collaborations, research opportunities, and internships in AI/ML, Generative AI, and Deep Learning.
+📧 Alaamiari206@gmail.com
+🔗 LinkedIn: alaami20
