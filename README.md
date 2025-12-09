@@ -32,7 +32,7 @@ I love solving real-world problems using:
 
 ## 📂 Highlighted Projects
 
-### fCrypto Intelligence Platform
+### Crypto Intelligence Platform
 
 A real-time machine learning system for cryptocurrency trend prediction and analytics.
 Tech stack: Python, TensorFlow/Keras, LSTM, Scikit-learn, Pandas, NumPy, SQL, Flask API, RAG/LLM Chatbot, Sentence-Transformers, PyTorch, AWS (optional)
@@ -43,6 +43,7 @@ Implemented technical indicators (returns, moving averages, volatility, RSI, MAC
 Trained and optimized an LSTM model to predict short-term crypto movements and deployed it for real-time inference.
 Designed a RAG-powered chatbot using Sentence-Transformers for semantic search over project knowledge base.
 Integrated the system into a modular architecture with REST API endpoints for predictions and analytics.
+
 ---
 
 ### 🔥 1. **Crypto Anomaly Detection (ML & LSTM Research)**
