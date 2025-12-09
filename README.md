@@ -32,10 +32,17 @@ I love solving real-world problems using:
 
 ## 📂 Highlighted Projects
 
-### future startup, Crypto Price Prediction Model: 
-Machine learning model predicting short-term crypto movements using historical data.
-**Tech:** Python, Pandas, Sklenar, MATLAB
+### fCrypto Intelligence Platform
 
+A real-time machine learning system for cryptocurrency trend prediction and analytics.
+Tech stack: Python, TensorFlow/Keras, LSTM, Scikit-learn, Pandas, NumPy, SQL, Flask API, RAG/LLM Chatbot, Sentence-Transformers, PyTorch, AWS (optional)
+Highlights:
+Built a complete end-to-end ML pipeline for crypto price forecasting using LSTM deep learning models.
+Developed data ingestion, cleaning, feature engineering, and time-series modeling modules with fully automated preprocessing.
+Implemented technical indicators (returns, moving averages, volatility, RSI, MACD) and created sequence windows for training.
+Trained and optimized an LSTM model to predict short-term crypto movements and deployed it for real-time inference.
+Designed a RAG-powered chatbot using Sentence-Transformers for semantic search over project knowledge base.
+Integrated the system into a modular architecture with REST API endpoints for predictions and analytics.
 ---
 
 ### 🔥 1. **Crypto Anomaly Detection (ML & LSTM Research)**
