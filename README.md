@@ -1,5 +1,5 @@
 # 🧠 Alaa Miari  
-### Full-Stack AI/ML Engineer | Generative AI (LLMs/RAG) | Deep Learning | MLOps | Data Science
+### ML/Full-Stack AI Engineer | Generative AI (LLMs/RAG) | Deep Learning | MLOps | Data Science
 
 📍 Haifa, Israel  
 📧 **Alaamiari206@gmail.com**  
