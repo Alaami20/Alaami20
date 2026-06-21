@@ -1,122 +1,138 @@
-# 🧠 Alaa Miari  
-### ML/Full-Stack AI Engineer | Generative AI (LLMs/RAG) | Deep Learning | MLOps | Data Science
+# Hi, I'm Alaa Miari 👋
 
-📍 Haifa, Israel  
-📧 **Alaamiari206@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/alaami20/  
-🐙 **GitHub:** https://github.com/Alaami20
+## AI/ML Engineer | Full-Stack AI Builder | Data Science & Computer Science Student
 
----
+I'm a Data Science and Computer Science student at the University of Haifa, focused on building real-world AI systems that connect machine learning, deep learning, generative AI, backend development, and cloud deployment.
 
-## 🚀 About Me
-I’m a Full-Stack AI/ML Engineer and Data Science student at the University of Haifa, passionate about building **real, production-ready AI systems**, from **LLMs and RAG applications**, to **deep learning models** and **end-to-end ML pipelines**.
+My main interests are applied AI, LLMs, RAG systems, time-series modeling, anomaly detection, MLOps, and production-ready AI products.
 
-I love solving real-world problems using:
-- Machine Learning & Deep Learning  
-- LLMs & Generative AI  
-- Time-series modeling & anomaly detection  
-- Cloud-based AI deployment (AWS)  
-- MLOps & automation  
-- Data engineering & preprocessing  
+I enjoy building systems end-to-end — from data collection and preprocessing, to model training, evaluation, API development, deployment, and user-facing AI experiences.
 
 ---
 
-## 🔬 Research Interests
-- Machine Learning & Applied AI  
-- Deep Learning (CNNs, RNNs, LSTMs, Transformers)  
-- Time-Series Analysis & Anomaly Detection  
-- Generative AI, LLMs, Retrieval-Augmented Generation  
-- Search algorithms & optimization  
+## What I Focus On
+
+- Machine Learning and Deep Learning
+- Generative AI, LLMs, and RAG applications
+- Time-series forecasting and anomaly detection
+- Full-stack AI product development
+- MLOps, automation, and cloud deployment
+- Data engineering, feature engineering, and model evaluation
 
 ---
 
-## 📂 Highlighted Projects
+## Featured Project
 
 ### Crypto Intelligence Platform
 
-A real-time machine learning system for cryptocurrency trend prediction and analytics.
+A real-time AI and machine learning platform for cryptocurrency market analysis, trend prediction, anomaly detection, and AI-powered insights.
 
-**Tech stack: Python, TensorFlow/Keras, LSTM, Scikit-learn, Pandas, NumPy, SQL, Flask API, RAG/LLM Chatbot, Sentence-Transformers, PyTorch, AWS (optional)**
+This project combines machine learning, deep learning, backend APIs, data pipelines, and generative AI to create a practical crypto intelligence system.
 
-Highlights:
+**Main work included:**
 
-Built a complete end-to-end ML pipeline for crypto price forecasting using LSTM deep learning models.
+- Built an end-to-end ML pipeline for crypto market forecasting
+- Created automated data ingestion, cleaning, preprocessing, and feature engineering modules
+- Implemented technical indicators such as RSI, MACD, moving averages, volatility, and returns
+- Trained LSTM-based deep learning models for short-term time-series prediction
+- Built anomaly detection models for identifying unusual market behavior
+- Developed backend API endpoints for predictions and analytics
+- Designed a RAG-powered AI chatbot using embeddings and semantic search
+- Worked on deployment-ready architecture using Python, APIs, and cloud tools
 
-Developed data ingestion, cleaning, feature engineering, and time-series modeling modules with fully automated preprocessing.
-
-Implemented technical indicators (returns, moving averages, volatility, RSI, MACD) and created sequence windows for training.
-
-Trained and optimized an LSTM model to predict short-term crypto movements and deployed it for real-time inference.
-
-Designed a RAG-powered chatbot using Sentence-Transformers for semantic search over project knowledge base.
-
-Integrated the system into a modular architecture with REST API endpoints for predictions and analytics.
-
----
-
-### 🔥 1. **Crypto Anomaly Detection (ML & LSTM Research)**
-Time-series anomaly detection model for crypto market behavior using ML and LSTM deep learning.  
-**Tech:** Python, Pandas, Scikit-Learn, LSTM  
-🔗 Repo: https://github.com/Alaami20/crypto-anomaly-detection
+**Tech Stack:**  
+Python, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, SQL, Flask, LSTM, Sentence-Transformers, RAG, AWS
 
 ---
 
-### 🎯 2. **Deep Learning Classification Model (TensorFlow/Keras)**
-Built and trained a multi-class neural network with TensorFlow/Keras, including evaluation and tuning.  
-**Tech:** TensorFlow, Keras, NumPy  
+## Selected Projects
+
+### Crypto Anomaly Detection  
+Time-series anomaly detection system for crypto market behavior using machine learning and LSTM-based deep learning.
+
+**Tech:** Python, Pandas, Scikit-learn, LSTM  
+**Repository:** [crypto-anomaly-detection](https://github.com/Alaami20/crypto-anomaly-detection)
 
 ---
 
-### 🤖 3. **AI Algorithms Implementation**
-Implemented core AI algorithms including A*, BFS, DFS, and heuristic search to understand algorithmic behavior.  
-**Tech:** Python  
+### Deep Learning Classification Model  
+Built and trained a multi-class neural network using TensorFlow and Keras, including model evaluation, tuning, and performance analysis.
 
-
----
-
-### 🧩 Upcoming Projects
-- **LLM RAG Mini-System** (Claude/Llama + Vector DB)  
-- **Image Classifier (CNN or Vision Transformer)**  
-- **End-to-End ML Pipeline (MLflow + Docker + CI/CD)**  
+**Tech:** TensorFlow, Keras, NumPy, Python
 
 ---
 
-## 🛠 Tech Stack
+### AI Search Algorithms Implementation  
+Implemented core artificial intelligence search algorithms including BFS, DFS, A*, and heuristic search.
 
-### **Languages**
+**Tech:** Python, AI Algorithms, Search Optimization
+
+---
+
+## Currently Building / Learning
+
+- LLM and RAG mini-systems
+- Vector databases and semantic search
+- MLflow, Docker, and CI/CD for MLOps
+- CNN and Vision Transformer image classification models
+- Production AI deployment on AWS
+- End-to-end AI product architecture
+
+---
+
+## Tech Stack
+
+### Languages
 Python, Java, SQL
 
-### **Machine Learning / Deep Learning**
-TensorFlow • Keras • PyTorch • Scikit-Learn • Transformers • CNNs • RNNs • LSTMs
+### Machine Learning & Deep Learning
+TensorFlow, Keras, PyTorch, Scikit-learn, CNNs, RNNs, LSTMs, Transformers
 
-### **Generative AI / LLMs**
-Prompt Engineering • Embeddings • RAG • LLM Fine-Tuning
+### Generative AI
+LLMs, RAG, Embeddings, Prompt Engineering, Semantic Search, LLM Fine-Tuning
 
-### **Cloud & MLOps**
-AWS (EC2, S3, Lambda, CloudWatch, CodePipeline) • Docker • CI/CD • GitHub Actions
+### Data Science
+Pandas, NumPy, Matplotlib, Feature Engineering, Data Cleaning, Model Evaluation
 
-### **Data Tools**
-Pandas • NumPy • Matplotlib • Feature Engineering • Data Cleaning
+### Backend & APIs
+Flask, REST APIs, SQL, Modular Backend Architecture
 
-### **Other Tools**
-Git • Linux • VSCode • IntelliJ • Jupyter
+### Cloud & MLOps
+AWS EC2, S3, Lambda, CloudWatch, Docker, GitHub Actions, CI/CD
 
----
-
-## 🎓 Education & Certifications
-**B.Sc. in Data Science & Computer Science — University of Haifa (2023–2027)**  
-
-**Certifications:**  
-- IBM Generative AI Engineer  
-- IBM Deep Learning Specialization  
-- AWS Cloud Technical Essentials  
-- Google Cloud MLOps  
-- SQL for Data Science (UC Davis)
+### Tools
+Git, GitHub, Linux, VS Code, IntelliJ, Jupyter Notebook
 
 ---
 
-## 🤝 Let’s Connect
-I’m open to collaboration, research, and internship opportunities in **AI/ML, Generative AI, Deep Learning, and Applied Research**.
+## Education
 
-📧 **Alaamiari206@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/alaami20/
+**B.Sc. in Data Science and Computer Science**  
+University of Haifa  
+2023 – 2027
+
+---
+
+## Certifications
+
+- IBM Generative AI Engineer
+- IBM Deep Learning Specialization
+- AWS Cloud Technical Essentials
+- Google Cloud MLOps
+- SQL for Data Science — UC Davis
+
+---
+
+## My Direction
+
+I am focused on becoming a strong AI/ML Engineer who can build practical, production-ready AI systems — not only models, but complete products that solve real problems.
+
+My goal is to work on AI, machine learning, generative AI, applied research, and intelligent software systems.
+
+---
+
+## Connect With Me
+
+Email: **Alaamiari206@gmail.com**  
+LinkedIn: [linkedin.com/in/alaami20](https://www.linkedin.com/in/alaami20/)  
+GitHub: [github.com/Alaami20](https://github.com/Alaami20)
